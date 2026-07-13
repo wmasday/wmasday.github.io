@@ -6,6 +6,7 @@ order: 4
 ---
 
 <div class="text-center my-4">
+  <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Muhammad Hidayat" class="img-fluid rounded-circle mb-3" style="width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.15); border: 3px solid #dee2e6;">
   <h1 class="display-4 font-weight-bold">Muhammad Hidayat</h1>
   <p class="lead text-muted">Full-Stack Developer | Security Engineer | Penetration Tester</p>
   <div class="d-flex justify-content-center flex-wrap gap-2 my-3">
