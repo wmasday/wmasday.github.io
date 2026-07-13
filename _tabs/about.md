@@ -156,11 +156,25 @@ Strong background in software engineering and cybersecurity research with practi
 ## <i class="fas fa-trophy mr-2"></i> Achievements & Patents
 
 ### Achievements
-- **P2MW Funding Awardee** — CookPal Team (*2026*)
-- **Silver Medal** — IoT iIDEX (International Innovation and Design Expo) (*2025*)
-- **PKM-KC Project Funding Awardee** — SIMBELMAWA
-- **Outstanding Student Award** — Universitas Gunadarma
-- **CTF & Hackathon Placements**: Finalist Compfest CTF 16, Finalist Ericsson Hackathon, 3rd Place ACT CTF, 2nd Place Hackfest0x07 CTF, etc.
+- **2026**
+  - **P2MW Funding Awardee** — CookPal Team
+- **2025**
+  - **Silver Medal** — IoT iIDEX (International Innovation and Design Expo)
+- **2024**
+  - **PKM-KC Project Funding Awardee** — SIMBELMAWA
+  - **Outstanding Student Award** — Universitas Gunadarma
+  - **Delegation Member** — LIDM Universitas Gunadarma
+  - **Finalist** — Ericsson Hackathon
+  - **Finalist** — Compfest CTF 16
+  - **Finalist** — CTF Techcomfest
+  - **3rd Place** — ACT CTF
+- **2023**
+  - **10th Place** — NiteCTF
+  - **7th Place** — Invofest Software Development Competition
+  - **2nd Place** — Hackfest 0x07 CTF
+- **2022**
+  - **Medallion for Excellence** — LKS National Web Technologies
+  - **1st Place** — LKS DKI Jakarta Web Technologies
 
 ### Patent
 - **ParQR** — Real-Time Illegal Parking Monitoring and Violation System
