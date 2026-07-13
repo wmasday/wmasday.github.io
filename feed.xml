@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://nauth.web.id/</id>
+  <title>Wmasday</title>
+  <subtitle>Security Engineer and Full-Stack Developer with experience in offensive security, application security testing, vulnerability research, and secure software development.</subtitle>
+  <updated>2026-07-13T08:23:52+07:00</updated>
+  <author>
+    <name>wmasdday</name>
+    <uri>https://nauth.web.id/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://nauth.web.id/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://nauth.web.id/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 wmasdday </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Welcome to My Personal Blog</title>
+    <link href="https://nauth.web.id/posts/hello-world/" rel="alternate" type="text/html" title="Welcome to My Personal Blog" />
+    <published>2026-07-13T07:27:00+07:00</published>
+  
+    <updated>2026-07-13T07:27:00+07:00</updated>
+  
+    <id>https://nauth.web.id/posts/hello-world/</id>
+    <content type="text/html" src="https://nauth.web.id/posts/hello-world/" />
+    <author>
+      <name>wmasdday</name>
+    </author>
+
+  
+    
+    <category term="General" />
+    
+    <category term="Welcome" />
+    
+  
+
+  <summary>Welcome to my personal developer blog and portfolio site!  This site is built using the Jekyll Chirpy template and hosted on GitHub Pages. Here, I’ll be sharing my journey, write-ups, research, and projects related to Full-Stack Development, Cybersecurity, Penetration Testing, and emerging tech like Blockchain and Machine Learning.  What to Expect  In future posts, I plan to cover topics includ...</summary>
+
+  </entry>
+
+</feed>
+
+
