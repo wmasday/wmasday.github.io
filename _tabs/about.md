@@ -22,7 +22,7 @@ order: 4
 
 ---
 
-## 🎯 Profile Summary
+## <i class="fas fa-user-circle mr-2"></i> Profile Summary
 
 Security Engineer and Full-Stack Developer with experience in offensive security, application security testing, vulnerability research, and secure software development. Experienced in conducting enterprise web application penetration testing, security assessments, vulnerability identification, and remediation support for improving organizational security posture.
 
@@ -30,7 +30,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 🛠️ Core Competencies
+## <i class="fas fa-tools mr-2"></i> Core Competencies
 
 <div class="row">
   <div class="col-md-6 mb-3">
@@ -65,7 +65,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 💼 Professional Experience
+## <i class="fas fa-briefcase mr-2"></i> Professional Experience
 
 ### **Lead Backend Engineer** @ CookPal
 *Mar 2026 – Present*
@@ -99,7 +99,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 🔬 Research Experience
+## <i class="fas fa-microscope mr-2"></i> Research Experience
 
 ### **Undergraduate Research** @ Gunadarma University
 *Implementation of Blockchain and Large Language Models (LLM) Integration for Data Integrity Verification in Malware Analysis*
@@ -109,7 +109,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 👥 Leadership & Community Experience
+## <i class="fas fa-users mr-2"></i> Leadership & Community Experience
 
 ### **Lead** @ Cyber Community Universitas Gunadarma (CCUG)
 *2026*
@@ -127,14 +127,14 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 🎓 Education
+## <i class="fas fa-graduation-cap mr-2"></i> Education
 
 - **Gunadarma University** — *Bachelor of Informatics* (2023 – Present) | **GPA: 3.89**
 - **SMK Negeri 2 Jakarta** — *Software Engineering* (2020 – 2023)
 
 ---
 
-## 📜 Certifications
+## <i class="fas fa-certificate mr-2"></i> Certifications
 
 - **2026** — *Certified Red Team Analyst (CRTA)*
 - **2024** — Web Application Penetration Tester eXtreme (eWPTXv2) INE | Certified AppSec Pentester (CAPen) | Certified Blockchain Practitioner (CBP) | Certified Network Security Practitioner (CNSP)
@@ -144,7 +144,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## 🏆 Achievements & Patents
+## <i class="fas fa-trophy mr-2"></i> Achievements & Patents
 
 ### Achievements
 - **P2MW Funding Awardee** — CookPal Team (*2026*)
