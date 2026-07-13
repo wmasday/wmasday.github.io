@@ -128,19 +128,28 @@ Strong background in software engineering and cybersecurity research with practi
 ---
 
 ## <i class="fas fa-graduation-cap mr-2"></i> Education
-
-- **Gunadarma University** — *Bachelor of Informatics* (2023 – Present) | **GPA: 3.89**
+- **Gunadarma University** — *Bachelor of Informatics* (2023 – Present) GPA: 3.89
 - **SMK Negeri 2 Jakarta** — *Software Engineering* (2020 – 2023)
 
 ---
 
 ## <i class="fas fa-certificate mr-2"></i> Certifications
 
-- **2026** — *Certified Red Team Analyst (CRTA)*
-- **2024** — Web Application Penetration Tester eXtreme (eWPTXv2) INE | Certified AppSec Pentester (CAPen) | Certified Blockchain Practitioner (CBP) | Certified Network Security Practitioner (CNSP)
-- **2023** — Cyber Threat Intelligence 101 | Linux System Administrator (Adinusa) | KKNI Level II Software Engineering
-- **2022** — Linux+ CompTIA
-- **2019** — Voluntary Vulnerability Disclosure Program (VVDP) BSSN
+- **2026**
+  - *Certified Red Team Analyst (CRTA)*
+- **2024**
+  - Web Application Penetration Tester eXtreme (eWPTXv2) INE
+  - Certified AppSec Pentester (CAPen)
+  - Certified Blockchain Practitioner (CBP)
+  - Certified Network Security Practitioner (CNSP)
+- **2023**
+  - Cyber Threat Intelligence 101
+  - Linux System Administrator (Adinusa)
+  - KKNI Level II Software Engineering Certification
+- **2022**
+  - Linux+ CompTIA
+- **2019**
+  - Voluntary Vulnerability Disclosure Program (VVDP) BSSN
 
 ---
 
