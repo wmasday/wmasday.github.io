@@ -162,8 +162,6 @@ Strong background in software engineering and cybersecurity research with practi
   - **Silver Medal** — IoT iIDEX (International Innovation and Design Expo)
 - **2024**
   - **PKM-KC Project Funding Awardee** — SIMBELMAWA
-  - **Outstanding Student Award** — Universitas Gunadarma
-  - **Delegation Member** — LIDM Universitas Gunadarma
   - **Finalist** — Ericsson Hackathon
   - **Finalist** — Compfest CTF 16
   - **Finalist** — CTF Techcomfest
@@ -177,5 +175,5 @@ Strong background in software engineering and cybersecurity research with practi
   - **1st Place** — LKS DKI Jakarta Web Technologies
 
 ### Patent
-- **ParQR** — Real-Time Illegal Parking Monitoring and Violation System
-  - *Patent ID:* EC00202455229 | *Issued:* June 26, 2024
+- **ParQR** — *Real-Time Illegal Parking Monitoring and Violation System*
+  - **Patent ID**: `EC00202455229` · **Issued**: June 26, 2024
