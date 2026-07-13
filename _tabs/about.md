@@ -10,11 +10,9 @@ order: 4
   <p class="lead text-muted">Full-Stack Developer | Security Engineer | Penetration Tester</p>
   <div class="d-flex justify-content-center flex-wrap gap-2 my-3">
     <a href="{{ '/CV.pdf' | relative_url }}" class="btn btn-primary d-inline-flex align-items-center px-4 py-2 mx-1" target="_blank" rel="noopener">
-      <i class="fas fa-file-pdf mr-2"></i>
       <span>View CV (PDF)</span>
     </a>
     <a href="{{ '/CV.pdf' | relative_url }}" download class="btn btn-outline-secondary d-inline-flex align-items-center px-4 py-2 mx-1">
-      <i class="fas fa-download mr-2"></i>
       <span>Download CV</span>
     </a>
   </div>
@@ -22,7 +20,7 @@ order: 4
 
 ---
 
-## <i class="fas fa-user-circle mr-2"></i> Profile Summary
+## Profile Summary
 
 Security Engineer and Full-Stack Developer with experience in offensive security, application security testing, vulnerability research, and secure software development. Experienced in conducting enterprise web application penetration testing, security assessments, vulnerability identification, and remediation support for improving organizational security posture.
 
@@ -30,13 +28,13 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-tools mr-2"></i> Core Competencies
+## Core Competencies
 
 <div class="row">
   <div class="col-md-6 mb-3">
     <div class="card h-100 border-0 bg-transparent">
       <div class="card-body p-0">
-        <h4 class="text-primary"><i class="fas fa-shield-alt mr-2"></i> Cybersecurity</h4>
+        <h4 class="text-primary">Cybersecurity</h4>
         <ul class="list-unstyled pl-3">
           <li>• Web Application Penetration Testing</li>
           <li>• Vulnerability Assessment & Research</li>
@@ -50,7 +48,7 @@ Strong background in software engineering and cybersecurity research with practi
   <div class="col-md-6 mb-3">
     <div class="card h-100 border-0 bg-transparent">
       <div class="card-body p-0">
-        <h4 class="text-success"><i class="fas fa-code mr-2"></i> Development</h4>
+        <h4 class="text-success">Development</h4>
         <ul class="list-unstyled pl-3">
           <li>• Full-Stack Development</li>
           <li>• REST API & Microservices Architecture</li>
@@ -65,7 +63,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-briefcase mr-2"></i> Professional Experience
+## Professional Experience
 
 ### **Lead Backend Engineer** @ CookPal
 *Mar 2026 – Present*
@@ -99,7 +97,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-microscope mr-2"></i> Research Experience
+## Research Experience
 
 ### **Undergraduate Research** @ Gunadarma University
 *Implementation of Blockchain and Large Language Models (LLM) Integration for Data Integrity Verification in Malware Analysis*
@@ -109,7 +107,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-users mr-2"></i> Leadership & Community Experience
+## Leadership & Community Experience
 
 ### **Lead** @ Cyber Community Universitas Gunadarma (CCUG)
 *2026*
@@ -127,13 +125,13 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-graduation-cap mr-2"></i> Education
+## Education
 - **Gunadarma University** — *Bachelor of Informatics* (2023 – Present) GPA: 3.89
 - **SMK Negeri 2 Jakarta** — *Software Engineering* (2020 – 2023)
 
 ---
 
-## <i class="fas fa-certificate mr-2"></i> Certifications
+## Certifications
 
 - **2026**
   - *Certified Red Team Analyst (CRTA)*
@@ -153,7 +151,7 @@ Strong background in software engineering and cybersecurity research with practi
 
 ---
 
-## <i class="fas fa-trophy mr-2"></i> Achievements & Patents
+## Achievements & Patents
 
 ### Achievements
 - **2026**
