@@ -1,32 +1,28 @@
-# Bundler cache
-.bundle
-vendor
-Gemfile.lock
+# Dependencies
+node_modules/
 
-# Jekyll cache
-.jekyll-cache
-.jekyll-metadata
-_site
+# Next.js build output
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
 
-# RubyGems
-*.gem
+# Staged files in public copied during prebuild
+/public/.nojekyll
+/public/CNAME
+/public/CV.pdf
 
-# NPM dependencies
-node_modules
-package-lock.json
+# Ignored private documents
+CV.md
+AGENTS.md
 
-# IDE configurations
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+*~
+*.swp
 .idea
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
-
-# Misc
-_sass/vendors
-assets/js/dist
-
-# Hidden system files
-*~
-.DS_Store
-Thumbs.db

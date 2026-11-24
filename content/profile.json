@@ -1,0 +1,252 @@
+{
+  "summary": "Application security engineer breaking enterprise web architectures and engineering resilient backends. I pair offensive exploitation with code-level remediation, alongside research into verifiable malware data integrity.",
+  "researchIntro": "Engineering verifiable data architectures, cryptographic integrity proofs, and intelligent security systems designed to withstand adversarial tampering.",
+  "interests": [
+    "Web Security & Exploitation",
+    "Blockchain Data Integrity",
+    "LLM-Assisted Analysis",
+    "Malware Analysis Automation",
+    "Smart Contract Security",
+    "Penetration Testing Methodology"
+  ],
+  "research": [
+    {
+      "id": "paper-blockchain",
+      "title": "Blockchain and LLM Integration for Data Integrity Verification in Malware Analysis",
+      "authors": "Muhammad Hidayat",
+      "venue": "Undergraduate Research · Gunadarma University",
+      "reference": null,
+      "description": "Designing a verification mechanism that records malware analysis results on-chain through Solidity smart contracts, making data immutable after submission. A Large Language Model is integrated into the analysis workflow to interpret and summarize findings, reducing manual triage time for security analysts.",
+      "status": "Ongoing",
+      "topics": [
+        "Blockchain",
+        "Solidity",
+        "LLM",
+        "Malware Analysis",
+        "Data Integrity"
+      ]
+    },
+    {
+      "id": "paper-parqr",
+      "title": "Rancang Bangun Sistem Antarmuka ParQR Untuk Pemantauan Dan Pelanggaran Parkir Liar Secara Real-Time",
+      "authors": "Muhammad Hidayat",
+      "venue": "Intellectual Property · EC00202455229 · Jun 2024",
+      "reference": "https://sinta.kemdiktisaintek.go.id/authors/profile/5988348/?view=iprs#!",
+      "description": "A real-time monitoring and violation detection interface integrating machine learning with automated telemetry to identify unauthorized parking. The system tracks occupancy states, detects infractions in real time, and dispatches automated enforcement logs.",
+      "status": "Patent Registered",
+      "topics": [
+        "IoT",
+        "Machine Learning",
+        "Real-Time Systems",
+        "Smart City"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Security Engineer",
+      "date": "Dec 2024 – Dec 2026",
+      "organization": "MPN Indonesia · South Tangerang · Full-time",
+      "items": [
+        "Perform penetration tests on enterprise web applications and APIs against the OWASP Top 10, using Burp Suite Professional, Nmap, FFUF, SQLMap and Nuclei.",
+        "Identify and manually validate vulnerabilities such as broken access control, injection and authentication flaws, removing false positives before findings reach developers.",
+        "Report findings to engineering teams with reproduction steps, business impact and remediation guidance, then retest fixes to confirm each issue is closed.",
+        "Work with engineering leads to improve the remediation process, from severity-based prioritization to fix verification."
+      ]
+    },
+    {
+      "title": "Lead Backend Engineer",
+      "date": "Mar 2026 – Present",
+      "organization": "CookPal (Gunadarma University student startup) · Part-time",
+      "items": [
+        "Lead backend architecture and implementation for the CookPal platform and coordinate the backend development team.",
+        "Design and build backend services and REST APIs, applying secure development practices such as authentication controls and input validation.",
+        "Turn product requirements into backend milestones with the product team; the project received P2MW funding and was selected for KMIEXPO 2026."
+      ]
+    },
+    {
+      "title": "Security Engineer",
+      "date": "Jun 2022 – Apr 2025",
+      "organization": "Bapera News · South Tangerang · Remote",
+      "items": [
+        "Ran black-box penetration tests on the company's web applications using Burp Suite, Nmap and SQLMap.",
+        "Simulated real-world attacks to identify and validate vulnerabilities, documenting each finding with severity and proof of concept.",
+        "Supported risk reduction by prioritizing fixes with developers and retesting patched issues."
+      ]
+    },
+    {
+      "title": "Full-Stack Developer",
+      "date": "Nov 2022 – Dec 2022",
+      "organization": "ADICI OPS · Remote · Freelance",
+      "items": [
+        "Built 3 custom WordPress themes and responsive corporate websites using PHP, JavaScript and CSS."
+      ]
+    },
+    {
+      "title": "Full-Stack Developer Intern",
+      "date": "May 2022 – Jun 2022",
+      "organization": "Cyber Edu Inkor · South Jakarta",
+      "items": [
+        "Contributed to a real-time communication system built on Socket.IO and MongoDB, working on real-time messaging features.",
+        "Developed features across Vue.js, Express.js, PostgreSQL and Laravel codebases."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Hard Skills",
+      "items": [
+        "Web Application Penetration Testing",
+        "Vulnerability Assessment",
+        "Black-box Testing",
+        "OWASP Top 10",
+        "Secure Code Review",
+        "Attack Surface Analysis",
+        "Vulnerability Research",
+        "Red Team Fundamentals",
+        "Malware Analysis",
+        "REST API Development",
+        "Microservices",
+        "Real-Time Systems",
+        "Smart Contract Development"
+      ]
+    },
+    {
+      "title": "Security Tools",
+      "items": [
+        "Burp Suite Professional",
+        "OWASP ZAP",
+        "Nmap",
+        "FFUF",
+        "SQLMap",
+        "Nuclei",
+        "Metasploit",
+        "Postman"
+      ]
+    },
+    {
+      "title": "Development Tools",
+      "items": [
+        "Express.js",
+        "Laravel",
+        "Vue.js",
+        "Socket.IO",
+        "WordPress",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "Docker"
+      ]
+    },
+    {
+      "title": "Programming Languages",
+      "items": [
+        "JavaScript",
+        "PHP",
+        "Solidity",
+        "Python",
+        "Go",
+        "Bash"
+      ]
+    },
+    {
+      "title": "Languages",
+      "items": [
+        "Indonesian (Native)",
+        "English (Intermediate)"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Certified Red Team Analyst (CRTA)",
+      "organization": "CyberWarFare Labs",
+      "date": "2026"
+    },
+    {
+      "title": "Web Application Penetration Tester eXtreme (eWPTXv2)",
+      "organization": "INE",
+      "date": "2024"
+    },
+    {
+      "title": "Certified AppSec Pentester (CAPen), Certified Network Security Practitioner (CNSP), Certified Blockchain Practitioner (CBP)",
+      "organization": "The SecOps Group",
+      "date": "2024"
+    },
+    {
+      "title": "Linux System Administrator",
+      "organization": "Adinusa",
+      "date": "2023"
+    },
+    {
+      "title": "KKNI Level II Software Engineering Certification",
+      "organization": "Badan Nasional Sertifikasi Profesi (BNSP)",
+      "date": "2023"
+    },
+    {
+      "title": "CompTIA Linux+",
+      "organization": "CompTIA",
+      "date": "2022"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Informatics, Gunadarma University",
+      "organization": "GPA 3.89 / 4.00",
+      "date": "2023 – 2027 (expected)"
+    },
+    {
+      "title": "Vocational High School Diploma, Software Engineering",
+      "organization": "SMK Negeri 2 Jakarta",
+      "date": "2020 – 2023"
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Lead, Cyber Community Universitas Gunadarma (CCUG)",
+      "date": "2026",
+      "items": [
+        "Lead a cybersecurity community of 14 members and plan its technical program.",
+        "Mentor members on penetration testing and CTF learning paths; run workshops and sharing sessions."
+      ]
+    },
+    {
+      "title": "CTF Challenge Author, Web Exploitation",
+      "date": "",
+      "items": [
+        "Gunadarma Code Week 2.0 (2026, also event coordinator)",
+        "Hackfest 0x09 (2025)",
+        "TechnoFair (2024, 2025)",
+        "Hackfest 0x08 (2024)"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Cybersecurity",
+      "date": "",
+      "items": [
+        "Finalist, COMPFEST CTF 16, competing with Team Siberku (PT Siberku Epic Indonesia), 2024",
+        "3rd Place, ACT CTF, 2024",
+        "Finalist, Techcomfest CTF, 2024",
+        "2nd Place, Hackfest 0x07 CTF, 2023",
+        "10th Place, NiteCTF, 2023",
+        "Vulnerability report acknowledged under BSSN Voluntary Vulnerability Disclosure Program (VVDP), 2019"
+      ]
+    },
+    {
+      "title": "Innovation and Academic",
+      "date": "",
+      "items": [
+        "1st Place, Digital Business Category, Sustaenofest 2.0, UNSIKA, 2026",
+        "Appreciation Medal, Informatics Study Program, Gunadarma University, 2026",
+        "P2MW Funding Recipient and KMIEXPO 2026 Selection, CookPal, 2026",
+        "Silver Medal, IoT Category, International Innovation and Design Expo (iIDEX), 2025",
+        "Outstanding Student Award, Gunadarma University, 2024",
+        "PKM-KC Funding Recipient, Belmawa, 2024",
+        "Finalist, Ericsson Hackathon, 2024",
+        "Medallion for Excellence, Web Technologies, LKS National, 2022; 1st Place, LKS DKI Jakarta, 2022"
+      ]
+    }
+  ]
+}

@@ -2,25 +2,27 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Run Jekyll Server",
-      "type": "shell",
-      "command": "./tools/run.sh",
+      "label": "Run Next.js",
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build static site",
+      "type": "npm",
+      "script": "build",
       "group": {
         "kind": "build",
         "isDefault": true
       },
-      "problemMatcher": [],
-      "detail": "Runs the Jekyll server with live reload."
+      "problemMatcher": []
     },
     {
-      "label": "Build Jekyll Site",
-      "type": "shell",
-      "command": "./tools/test.sh",
-      "group": {
-        "kind": "build"
-      },
-      "problemMatcher": [],
-      "detail": "Build the Jekyll site for production."
+      "label": "Check static export",
+      "type": "npm",
+      "script": "check",
+      "dependsOn": "Build static site",
+      "problemMatcher": []
     }
   ]
 }
