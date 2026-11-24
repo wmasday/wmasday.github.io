@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+
+Host: https://nauth.web.id
+Sitemap: https://nauth.web.id/sitemap.xml

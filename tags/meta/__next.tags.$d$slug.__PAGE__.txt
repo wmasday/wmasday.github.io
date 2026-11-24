@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/32wm09hldo5_v.js"
+4:I[71939,["$3"],"SiteHeader"]
+5:I[39756,["$3"],"default"]
+6:I[37457,["$3"],"default"]
+7:I[22016,["$3"],""]
+8:I[71939,["$3"],"SiteFooter"]
+14:"ViewportBoundary"
+15:I[97367,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3"],"$16"]
+18:"$Sreact.suspense"
+:HL["/_next/static/chunks/33fmw_gg4iwhq.css","style"]
+2:T490,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://nauth.web.id/#person","name":"Muhammad Hidayat","alternateName":"wmasday","url":"https://nauth.web.id","image":"https://nauth.web.id/assets/img/muhammad-square.jpg","jobTitle":"Application Security Engineer","worksFor":{"@type":"Organization","name":"MPN Indonesia"},"sameAs":["https://github.com/wmasday","https://www.linkedin.com/in/wmasday/"],"knowsAbout":["Web Application Security","Penetration Testing","Malware Analysis","Blockchain Data Integrity","Smart Contract Security","Backend Architecture"],"description":"Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry."},{"@type":"WebSite","@id":"https://nauth.web.id/#website","url":"https://nauth.web.id","name":"Muhammad Hidayat","description":"Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry.","publisher":{"@id":"https://nauth.web.id/#person"}}]}a:X
+d:X
+d:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"shell inner-page","children":[["$","header",null,{"className":"page-heading","children":[["$","$L7",null,{"href":"/tags/","className":"text-link","children":"Tags"}],["$","h1",null,{"children":"meta"}]]}],["$","ul",null,{"className":"post-list","children":[["$","li","hello-world",{"children":["$","$L7",null,{"className":"post-row","href":"/posts/hello-world/","children":[["$","time",null,{"dateTime":"2026-07-13T00:27:00.000Z","children":"Jul 13, 2026"}],["$","div",null,{"className":"post-row-copy","children":[["$","h2",null,{"children":"Welcome to My Personal Blog"}],["$","p",null,{"children":["General · Welcome"," / ",1," min read"]}]]}],["$","span",null,{"className":"post-row-end","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-pin","aria-label":"Pinned","children":[["$","path","bb1du9",{"d":"M12 17v5"}],["$","path","1nkz8b",{"d":"M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"}],"$undefined"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":["$L11","$undefined"]}]]}]]}]}]]}]]}],null,"$L12"]}],"p":"$@13","v":null,"s":"$a"}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"meta","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@f","v":"$d","s":"$a"},"c":"$Q10"}]]
+b:[["children",{"s":"tags","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/33fmw_gg4iwhq.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32wm09hldo5_v.js","async":true}]],["$","html",null,{"lang":"en","className":"Ur3q_a_variable iaM1Ya_variable","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"shell inner-page","children":["$","header",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The address may have changed or the page may have been removed."}],["$","$L7",null,{"className":"button button-primary","href":"/","children":"Back to home"}]]}]}],[]]}]}],["$","$L8",null,{}]]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#080a0d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"meta — Muhammad Hidayat"}],["$","meta","1",{"name":"description","content":"Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry."}],["$","link","2",{"rel":"author","href":"https://nauth.web.id"}],["$","meta","3",{"name":"author","content":"Muhammad Hidayat"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest"}],["$","meta","5",{"name":"keywords","content":"Muhammad Hidayat,wmasday,Application Security Engineer,Penetration Tester,Cybersecurity,Offensive Security,Web Exploitation,CTF,Malware Analysis,Blockchain Data Integrity,Smart Contract Security,Indonesia"}],["$","meta","6",{"name":"creator","content":"Muhammad Hidayat"}],["$","meta","7",{"name":"publisher","content":"Muhammad Hidayat"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","10",{"rel":"canonical","href":"https://nauth.web.id/tags/meta/"}],["$","meta","11",{"name":"google-site-verification","content":"e546bec62c39cfc0"}],["$","meta","12",{"property":"og:title","content":"Muhammad Hidayat — Application Security Engineer"}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}]}],null]}],"$L2e"]}],"p":"$@2f","v":null,"s":"$a"}},"a":"$@30","u":"$@31","b":"QfDbNUU5aGk2PwuAknqfu"}
+32:I[97367,["$3"],"OutletBoundary"]
+34:I[27201,["$3"],"IconMark"]
+11:["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}]
+12:["$","$L32",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+19:["$","meta","13",{"property":"og:description","content":"Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry."}]
+1a:["$","meta","14",{"property":"og:url","content":"https://nauth.web.id/"}]
+1b:["$","meta","15",{"property":"og:site_name","content":"Muhammad Hidayat"}]
+1c:["$","meta","16",{"property":"og:locale","content":"en_US"}]
+1d:["$","meta","17",{"property":"og:image","content":"https://nauth.web.id/assets/img/muhammad-square.jpg"}]
+1e:["$","meta","18",{"property":"og:image:width","content":"600"}]
+1f:["$","meta","19",{"property":"og:image:height","content":"600"}]
+20:["$","meta","20",{"property":"og:image:alt","content":"Muhammad Hidayat — Application Security Engineer"}]
+21:["$","meta","21",{"property":"og:type","content":"website"}]
+22:["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}]
+23:["$","meta","23",{"name":"twitter:creator","content":"@wmasday"}]
+24:["$","meta","24",{"name":"twitter:title","content":"Muhammad Hidayat — Application Security Engineer"}]
+25:["$","meta","25",{"name":"twitter:description","content":"Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry."}]
+26:["$","meta","26",{"name":"twitter:image","content":"https://nauth.web.id/assets/img/muhammad-square.jpg"}]
+27:["$","link","27",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+28:["$","link","28",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}]
+29:["$","link","29",{"rel":"icon","href":"/icon-48.png","sizes":"48x48","type":"image/png"}]
+2a:["$","link","30",{"rel":"icon","href":"/icon-96.png","sizes":"96x96","type":"image/png"}]
+2b:["$","link","31",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}]
+2c:["$","link","32",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2d:["$","$L34","33",{}]
+2e:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+33:null
+31:true
+a:C
+30:0
+f:"$undefined"
+c:"$undefined"
+9:"$undefined"
+2f:"$undefined"
+13:"$undefined"

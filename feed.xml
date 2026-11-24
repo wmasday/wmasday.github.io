@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Muhammad Hidayat</title>
+  <id>https://nauth.web.id/</id>
+  <link href="https://nauth.web.id/"/>
+  <link href="https://nauth.web.id/feed.xml" rel="self"/>
+  <updated>2026-07-18T13:00:00.000Z</updated>
+  <author><name>Muhammad Hidayat</name></author>
+  <entry>
+  <title>The Perspective of AI in CTFs: A Clash of Cultures and Why It Matters</title>
+  <link href="https://nauth.web.id/posts/ai-perspective-in-ctfs/"/>
+  <id>https://nauth.web.id/posts/ai-perspective-in-ctfs/</id>
+  <published>2026-07-18T13:00:00.000Z</published>
+  <updated>2026-07-18T13:00:00.000Z</updated>
+  <summary>Capture The Flag (CTF) competitions have long been a proving ground for security enthusiasts, hackers, and researchers. They reward human ingenuity: the late-night &quot;aha!&quot; moment, the odd edge case that everyone else missed, and the patience to reverse-engineer a binary one instruction at a time.</summary>
+  <category term="Cybersecurity"/><category term="Artificial Intelligence"/><category term="ctf"/><category term="ai"/><category term="infosec"/><category term="culture"/>
+</entry>
+<entry>
+  <title>Welcome to My Personal Blog</title>
+  <link href="https://nauth.web.id/posts/hello-world/"/>
+  <id>https://nauth.web.id/posts/hello-world/</id>
+  <published>2026-07-13T00:27:00.000Z</published>
+  <updated>2026-07-13T00:27:00.000Z</updated>
+  <summary>Welcome to my personal developer blog and portfolio site! </summary>
+  <category term="General"/><category term="Welcome"/><category term="welcome"/><category term="meta"/>
+</entry>
+</feed>
