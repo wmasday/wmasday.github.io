@@ -21,14 +21,33 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPosts().find((item) => item.slug === slug);
   if (!post) return {};
 
+  const ogImage = post.image ? post.image.path : "/assets/img/muhammad-square.jpg";
+
   return {
     title: post.title,
     description: post.excerpt,
     alternates: { canonical: postPath(post.slug) },
     openGraph: {
-      title: post.title, description: post.excerpt, type: "article", url: postPath(post.slug),
-      publishedTime: post.date, authors: [site.name], tags: post.tags,
-      images: post.image ? [{ url: post.image.path, alt: post.image.alt }] : undefined,
+      title: post.title,
+      description: post.excerpt,
+      type: "article",
+      url: postPath(post.slug),
+      publishedTime: post.date,
+      authors: [site.name],
+      tags: post.tags,
+      images: [
+        {
+          url: ogImage,
+          alt: post.image?.alt || post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: [ogImage],
+      creator: `@${site.handle}`,
     },
   };
 }
@@ -53,8 +72,37 @@ export default async function Article({ params }: Props) {
   const headings = getHeadings(post.body);
   const related = posts.filter((item) => item.slug !== slug).slice(0, 2);
 
+  const postSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Person",
+      name: site.name,
+      url: site.url,
+    },
+    publisher: {
+      "@type": "Person",
+      name: site.name,
+      url: site.url,
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${site.url}${postPath(post.slug)}`,
+    },
+    image: post.image?.path ? `${site.url}${post.image.path}` : `${site.url}/assets/img/muhammad-square.jpg`,
+    keywords: post.tags?.join(", "),
+  };
+
   return (
     <div className="shell inner-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(postSchema) }}
+      />
       <article className="article">
         <header className="article-heading">
           <Link className="text-link" href="/archives/">All writing</Link>

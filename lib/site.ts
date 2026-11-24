@@ -2,7 +2,7 @@ export const site = {
   name: "Muhammad Hidayat",
   handle: "wmasday",
   url: "https://nauth.web.id",
-  description: "Muhammad Hidayat is an application security engineer and penetration tester based in Tangerang, Indonesia.",
+  description: "Muhammad Hidayat (wmasday) — Application Security Engineer and penetration tester specializing in offensive web exploitation, resilient backend architecture, and verifiable malware telemetry.",
   email: "withmasday@gmail.com",
   github: "https://github.com/wmasday",
   linkedin: "https://www.linkedin.com/in/wmasday/",

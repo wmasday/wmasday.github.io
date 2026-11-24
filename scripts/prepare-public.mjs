@@ -5,6 +5,7 @@ const files = [
   ".nojekyll",
   "CNAME",
   "CV.pdf",
+  "googlee546bec62c39cfc0.html",
 ];
 
 await mkdir("public", { recursive: true });

@@ -10,6 +10,8 @@ const required = [
   "index.html", "about/index.html", "archives/index.html",
   "categories/index.html", "tags/index.html", "404.html", "feed.xml",
   "sitemap.xml", "robots.txt", ".nojekyll", "CNAME", "sw.min.js", "CV.pdf",
+  "googlee546bec62c39cfc0.html", "site.webmanifest", "favicon.ico", "favicon.svg",
+  "icon-48.png", "icon-96.png", "icon-192.png", "icon-512.png", "apple-touch-icon.png",
 ];
 
 for (const file of required) assert.ok(existsSync(join(output, file)), `Missing export: ${file}`);
@@ -19,6 +21,7 @@ for (const filename of readdirSync(join("content", "posts"))) {
 }
 assert.deepEqual(read("CV.pdf"), readFileSync("CV.pdf"), "Export must contain the original CV.pdf");
 assert.deepEqual(read("CNAME"), readFileSync("CNAME"), "Export must preserve the configured CNAME");
+assert.deepEqual(read("googlee546bec62c39cfc0.html"), readFileSync("googlee546bec62c39cfc0.html"), "Export must contain the Google Search Console verification file");
 assert.ok(!existsSync(join(output, "CV.md")), "Source CV.md should stay outside the public export");
 
 const pages = new Map();
